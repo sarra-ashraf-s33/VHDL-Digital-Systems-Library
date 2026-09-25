@@ -1,0 +1,7 @@
+v 3
+file . "counter_4bit_tb.vhd" "20260818210122.000" "20260819000132.172":
+  entity counter_4bit_tb at 1( 0) + 0 on 13;
+  architecture sim of counter_4bit_tb at 7( 98) + 0 on 14;
+file . "counter_4bit.vhd" "20260818210118.000" "20260819000126.773":
+  entity counter_4bit at 1( 0) + 0 on 11;
+  architecture behavioral of counter_4bit at 12( 216) + 0 on 12;

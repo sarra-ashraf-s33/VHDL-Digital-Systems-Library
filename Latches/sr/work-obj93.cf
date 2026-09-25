@@ -1,0 +1,7 @@
+v 3
+file . "latch_sr_tb.vhd" "20260818163710.000" "20260819020709.237":
+  entity latch_sr_tb at 1( 0) + 0 on 25;
+  architecture sim of latch_sr_tb at 7( 90) + 0 on 26;
+file . "latch_sr.vhd" "20260818162840.000" "20260819020658.711":
+  entity latch_sr at 1( 0) + 0 on 23;
+  architecture dataflow of latch_sr at 13( 212) + 0 on 24;
