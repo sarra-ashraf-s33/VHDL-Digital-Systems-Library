@@ -1,0 +1,7 @@
+v 3
+file . "bcd_tb.vhd" "20260818131952.000" "20260819013456.941":
+  entity bcd_tb at 1( 0) + 0 on 28;
+  architecture sim of bcd_tb at 7( 80) + 0 on 29;
+file . "bcd.vhd" "20260818133440.000" "20260819013447.425":
+  entity bcd at 1( 0) + 0 on 26;
+  architecture dataflow of bcd at 12( 193) + 0 on 27;
